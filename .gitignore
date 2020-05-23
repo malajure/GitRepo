@@ -1,0 +1,16 @@
+/.metadata/
+
+#Ignore All the Packaging Files : jar
+*.jar
+
+
+#Ignore all the .class files
+*.class
+
+
+#Ignore settings file
+.classpath
+
+
+.classpath
+.settings/org.eclipse.jdt.core.prefs
